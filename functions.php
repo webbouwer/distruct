@@ -1,3 +1,4 @@
+<?php
 /*
  * Disctruct Divi Childtheme
  */
